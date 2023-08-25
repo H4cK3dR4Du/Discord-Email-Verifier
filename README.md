@@ -10,6 +10,7 @@ This tool is for verifying your unclaimed Discord tokens by email without any fl
 - Unflagged Claimer
 - Capsolver & Hotmailbox Support
 - Auto Proxy Scraper (Optional)
+- Can Verify Locked Tokens
 - Fast & Easy To Setup
 - Slick UI
 
